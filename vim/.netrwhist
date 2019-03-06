@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/home/amad/dev/team-mcr/app'
+let g:netrw_dirhist_2='/home/amad/dev/team-mcr/app/translations/es/LC_MESSAGES'
+let g:netrw_dirhist_3='/home/amad/ctfhax.ncatlabs.com:53180'
